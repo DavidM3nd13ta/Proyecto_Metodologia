@@ -1,2 +1,2 @@
 # Proyecto_Metodologia
-Proyecto para la clase de metodologia y software
+Repositorio del Proyecto Los Taticos. Códigos que se unen para la creación final de la página. 
