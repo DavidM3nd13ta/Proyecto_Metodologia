@@ -1,0 +1,91 @@
+*{
+	padding:0;
+}
+
+body{
+	background: #2bc8c8;
+}
+
+h1{
+	font-family: arial black;
+}
+
+table{
+	font-family: arial black;
+	margin-top: 100px;
+	margin-left: 0%;
+	width: 850px;
+	height: 80px;
+	border-collapse: collapse;
+	box-shadow: 8px 0px 15px 2px #000000;
+}
+
+table thead{
+	height: 35px;
+	background: #1d688e;
+	color: #000000;
+	border: 2px solid #000000;
+}
+
+table thead:hover{
+	background: #ff7aff;
+}
+
+table tbody{
+	background: #088cff;
+	color: #000000;
+	border: 2px solid #000000;
+	text-align: center;
+}
+
+table tbody td{
+	padding: 0px 0px 0px 0px;
+}
+
+table tbody:hover{ 
+	background: #ff95c8; 
+}
+
+table tbody a{
+	text-decoration: none;
+	padding: 5px 10px 5px 10px;
+	border-radius: 10px;
+}
+
+.actualizar{
+	border-radius: 10px;
+	font-size: 15px;
+	font-family: arial black;
+	width: 100px;
+	height: 35px;
+	background: #00FF06;
+	color: #000000;
+}
+
+.actualizar:hover{
+	border-radius: 15px;
+	background: #B4FF00;
+	color: #FF00DE;
+}
+
+.eliminar{
+	border-radius: 10px;
+	font-size: 15px;
+	font-family: arial black;
+	width: 100px;
+	height: 35px;
+	background: #FF0202;
+	color: #000000;
+}
+
+.eliminar:hover{
+	border-radius: 15px;
+	background: #7E00FF;
+	color: #FF7E00;
+}
+
+.Nn,.Aa,.Tt,.Dd,.Cc{
+	background: none;
+	padding: 7px 0px 10px 0px;
+	padding-left: 10px;
+}
